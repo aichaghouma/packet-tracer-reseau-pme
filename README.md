@@ -6,7 +6,7 @@ Simulation of a small business network: one router, one switch, three PCs, one l
 Build, configure and test a local network with static IPv4 addressing, and verify communication between all devices.
 
 ## Topology
-![Logical topology](topologie-logique.png)
+![Logical topology](logic-rack.png)
 
 Devices:
 - 1 Cisco 1941 router (R1)
