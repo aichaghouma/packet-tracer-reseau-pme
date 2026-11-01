@@ -43,8 +43,9 @@ Full configuration: [R1-config.txt](R1-config.txt)
 ## Tests
 From PC2, pings to the router, the server, the printer and the laptop all succeed (4 packets sent, 4 received, 0% loss).
 
-![Ping to router](ping-routeur.png)
-![Ping to devices](ping-appareils.png)
+![Ping to router and server](ping-router-server.png)
+![Ping to printer and laptop](ping-printer-laptop.png)
+![Physical view of the rack](physical-rack.png)
 
 ## What I Learned
 - [Write 3 or 4 points in your own words]
